@@ -12,6 +12,8 @@ interview questions tailored to a chosen **job role**, **skills**, and
 This was built for the **AI Internship – Task 01** assignment.
 
 ## 📌 Features
+<img width="639" height="332" alt="image" src="https://github.com/user-attachments/assets/ae10bb94-b680-4188-ae24-9763b6fd9d26" />
+
 
 - ✅ Job Role input
 - ✅ Skills input (comma-separated, supports any number of skills)
